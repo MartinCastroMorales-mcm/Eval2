@@ -1,0 +1,4 @@
+.venv
+walmart.csv
+*.data
+*.json
